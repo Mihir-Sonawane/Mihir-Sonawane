@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi, I'm Mihir Sonawane 👋<br><br>🎓 Diploma Semester 6 IT Student<br>🔐 Passionate about Cyber Security & Ethical Hacking ans AI/ML<br>💻 Learning Python, Networking & Security Tools<br>🚀 Exploring Bug Bounty, Web Security and Linux<br>📚 Always learning new technologies and building skills
+Hi, I'm Mihir Sonawane 👋<br><br>🎓 Diploma Semester 6 IT Student<br>🔐 Passionate about Cyber Security & Ethical Hacking and AI/ML<br>💻 Learning Python, Networking & Security Tools<br>🚀 Exploring Bug Bounty, Web Security and Linux<br>📚 Always learning new technologies and building skills
 
 
 ## 🌐 Socials:
